@@ -1,0 +1,42 @@
+{
+  "compilerOptions": {
+    //
+    // DEFAULT MODIFIED OPTIONS
+    //
+    //"module": "nodenext",
+    "module": "commonjs",
+    //"target": "esnext",
+    "target": "es6",
+    //
+    // ADDED OPTIONS
+    //
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "typeRoots": [
+      "./node_modules/@types"
+    ],
+    "forceConsistentCasingInFileNames": true,    
+    //
+    // UNCHANGED OPTIONS
+    //
+    "strict": true,
+    "skipLibCheck": true,
+    //
+    // DISABLED OPTIONS
+    //
+    /*
+    "types": [],
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "jsx": "react-jsx",
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    */
+  }
+}
