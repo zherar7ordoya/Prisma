@@ -1,8 +1,6 @@
 # Guía de Administración Básica de PostgreSQL
 
-## [Repositorio Original](https://github.com/lesandie/guia-postgres.git)
-
-<img src="./preview/imagenes/postgresql-logo.png" alt="cv" width="300"/><br>
+<img src="./preview/imagenes/postgresql-logo.png" alt="cv" width="300"/>
 
 ---
 
@@ -41,4 +39,6 @@ Gracias!
 
 ---
 
-> [Ir a la Guía](./preview/guia.md)
+## [Ir a la Guía](./preview/guia.md)
+
+**[Repositorio original](https://github.com/lesandie/guia-postgres.git)**

@@ -1891,7 +1891,6 @@ SELECT ts_debug('spanish', 'En un lugar de la Mancha, de cuyo nombre no quiero a
 
 Más info en: <https://www.cybertec-postgresql.com/en/postgresql-more-performance-for-like-and-ilike-statements/>
 
-### SEÑALADOR
 
 ### Vistas <a name="vistas"></a>
 
@@ -1926,7 +1925,7 @@ VIEW name [(column_name [, ...])] [WITH (view_option_name [= view_option_value] 
 AS query [WITH [CASCADED|LOCAL] CHECK OPTION]
 ```
 
-Tipos de vistas:
+**Tipos de vistas:**
 
 a)  Vistas temporales: las cuales se eliminan automáticamente al final
     de la sesión
